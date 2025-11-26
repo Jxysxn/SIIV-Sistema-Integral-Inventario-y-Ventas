@@ -1,0 +1,28 @@
+
+INSTRUCCIONES PARA EJECUTAR LA APLICACIÓN SIIV
+
+
+REQUISITOS:
+- JDK 17 o superior
+- NetBeans 12+
+- MySQL Server / XAMPP con MariaDB
+
+PASOS:
+1. Clonar o descargar el proyecto completo desde GitHub.
+2. Abrir el proyecto en NetBeans.
+3. Restaurar la base de datos como se indica en el archivo de respaldo.
+4. Cargar las librerías
+5. Ejecutar el proyecto desde el archivo main
+6. Iniciar sesión con alguno de los usuarios:
+
+ADMINISTRADOR:
+usuario: admin
+clave: admin123
+
+VENDEDOR:
+usuario: vendedor1
+clave: venta123
+
+ANALISTA:
+usuario: analista1
+clave: analista123
